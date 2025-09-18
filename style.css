@@ -1,0 +1,17 @@
+h1 {
+    color: crimson;
+}
+
+.main header {
+    color: dodgerblue;
+}
+
+.look {
+    background-color: fuchsia;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 5px solid coral;
+    margin: 50px;
+}
+body {background-color: cyan;}
